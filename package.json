@@ -1,0 +1,15 @@
+{
+  "name": "neversleep",
+  "version": "1.0.0",
+  "description": "A program which allows you to prevent your computer from sleeping.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chen Z.",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.4"
+  }
+}
